@@ -1,0 +1,1 @@
+mvn clean&& echo "### mvn clean Done ###"&&mvn test-compile&& echo "### mvn compile Done ###"&&mvn -Dtest=KafkaTests test

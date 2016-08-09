@@ -1,0 +1,98 @@
+{
+  "pagesViewed": {
+    "checks": {
+      "check1": [
+        "\"pageName\" : \"home_page_view\"",
+        "\"pageURL\" :  null"
+      ],
+      "check2": [
+        "\"pageName\" : \"search_result_page_view\""
+      ]
+    },
+    "count": [
+      3,
+      1
+    ],
+    "operator": [
+      "<=",
+      "<="
+    ]
+  },
+  "search": {
+    "checks": {
+      "check1": [
+        "\"keyword\" : \"test\""
+      ]
+    },
+    "count": [
+      1
+    ],
+    "operator": [
+      "=="
+    ]
+  },
+  "clicks": {
+    "checks": {
+      "check1": [
+        "\"menuItem\" : \"Home\"",
+        "\"click\" : \"header_menu_click\""
+      ],
+      "check2": [
+        "\"menuItem\" : \"Events\"",
+        "\"click\" : \"header_menu_click\""
+      ],
+      "check3": [
+        "\"click\" : \"linkedin_login_click\""
+      ]
+    },
+    "count": [
+      1,
+      1,
+      1
+    ],
+    "operator": [
+      "==",
+      "==",
+      "=="
+    ]
+  },
+  "noResultKeywords": {
+    "checks": {
+      "check1": [
+        "\"keyword\" : \"dummyyyyy\""
+      ]
+    },
+    "count": [
+      1
+    ],
+    "operator": [
+      "=="
+    ]
+  },
+  "linkedINrecommendedJobs": {
+    "checks": {
+      "check1": [
+        "\"jobSeqNo\" : \"YODLA0048213\""
+      ]
+    },
+    "count": [
+      1
+    ],
+    "operator": [
+      "=="
+    ]
+  },
+  "jobsViewed": {
+    "checks": {
+      "check1": [
+        "\"jobSeqNo\" : \"YODLA0048213\""
+      ]
+    },
+    "count": [
+      1
+    ],
+    "operator": [
+      "=="
+    ]
+  }
+}

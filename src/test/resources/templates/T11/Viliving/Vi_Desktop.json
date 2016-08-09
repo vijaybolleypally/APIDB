@@ -1,0 +1,502 @@
+{
+  "logo_click": {
+    "checks": {
+      "check1": [
+      ]
+    },
+    "count": [
+      1
+    ],
+    "operator": [
+      "<="
+    ]
+  },
+  "header_menu_click": {
+    "checks": {
+      "check1": [
+        "\"trait62\":\"Why ViOur CultureBenefitsCommunity InvolvementDiversity & Inclusion\""
+      ],
+      "check2": [
+        "\"trait62\":\"Vi Home\""
+      ],
+      "check3": [
+        "\"trait62\":\"Facilities/ Engineering\""
+      ]
+    },
+    "count": [
+      1,1,1
+    ],
+    "operator": [
+      "<=","<=","<="
+    ]
+  },
+  "footer_menu_click": {
+    "checks": {
+      "check1": [
+        "\"trait62\":\"VILIVING.COM\""
+      ],
+      "check2": [
+        "\"trait62\":\"PRIVACY POLICY\""
+      ]
+    },
+    "count": [
+      1,1
+    ],
+    "operator": [
+      "<=","<="
+    ]
+  },
+  "socialnetwork_click": {
+    "checks": {
+      "check1": [
+        "\"trait213\":"
+      ]
+    },
+    "count": [
+      1
+    ],
+    "operator": [
+      "<="
+    ]
+  },
+  "homepage_category_click": {
+    "checks": {
+      "check1": [
+        "\"trait14\":\"Culinary/ Dining Services\""
+      ],
+      "check2": [
+        "\"trait14\":\"ALL\""
+      ]
+    },
+    "count": [
+      1,1
+    ],
+    "operator": [
+      "<=","<="
+    ]
+  },
+  "homepage_next_slider_click": {
+    "checks": {
+      "check1": [
+      ]
+    },
+    "count": [
+      1
+    ],
+    "operator": [
+      "<="
+    ]
+  },
+  "homepage_prev_slider_click": {
+    "checks": {
+      "check1": [
+      ]
+    },
+    "count": [
+      2
+    ],
+    "operator": [
+      "<="
+    ]
+  },
+  "homepage_category_morejobs_click": {
+    "checks": {
+      "check1": [
+        "\"trait14\":\"Resident Care\""
+      ]
+    },
+    "count": [
+      1
+    ],
+    "operator": [
+      "<="
+    ]
+  },
+  "homepage_category_job_click": {
+    "checks": {
+      "check1": [
+        "\"trait5\":\"VILIA005J537\"",
+        "\"trait14\":\"Housekeeping\"",
+        "\"trait46\":{\"triet44\":false,\"triet45\":false}"
+      ]
+    },
+    "count": [
+      1
+    ],
+    "operator": [
+      "<="
+    ]
+  },
+  "static_more_info": {
+    "checks": {
+      "check1": [
+        "\"trait13\":\"Value\""
+      ]
+    },
+    "count": [
+      1
+    ],
+    "operator": [
+      "<="
+    ]
+  },
+  "static_page_view": {
+    "checks": {
+      "check1": [
+        "\"trait13\":\"Value\""
+      ]
+    },
+    "count": [
+      1
+    ],
+    "operator": [
+      "<="
+    ]
+  },
+  "pagination_click": {
+    "checks": {
+      "check1": [
+        "\"trait214\":\"Value\""
+      ]
+    },
+    "count": [
+      1
+    ],
+    "operator": [
+      "<="
+    ]
+  },
+  "page_search": {
+    "checks": {
+      "check2": [
+        "\"trait6\":\"testing1\"",
+        "\"trait7\":\"Aventura, FL, Vi at Aventura\"",
+        "\"trait8\":\"Facilities/ Engineering\"",
+        "\"trait9\":null",
+        "\"trait10\":null",
+        "\"trait11\":null",
+        "\"trait21\":null",
+        "\"trait22\":null",
+        "\"trait79\":\"en\""
+      ],
+      "check1": [
+        "\"trait6\":\"nulls test\"",
+        "\"trait7\":null",
+        "\"trait8\":null",
+        "\"trait9\":null",
+        "\"trait10\":null",
+        "\"trait11\":null",
+        "\"trait21\":null",
+        "\"trait22\":null",
+        "\"trait79\":\"en\""
+      ]
+    },
+    "count": [
+      1,
+      1
+    ],
+    "operator": [
+      "<=",
+      "<="
+    ]
+  },
+  "view_all_jobs_click": {
+    "checks": {
+      "check1": [
+      ]
+    },
+    "count": [
+      1
+    ],
+    "operator": [
+      "<="
+    ]
+  },
+  "search_jobs_by_map_click" :{
+  "checks": {
+    "check1": [
+    ]
+  },
+  "count": [
+    1
+  ],
+  "operator": [
+    "<="
+  ]
+},
+  "searchjobs_favorites": {
+    "checks": {
+      "check1": [
+      ]
+    },
+    "count": [
+      1
+    ],
+    "operator": [
+      "<="
+    ]
+  },
+  "job_click": {
+    "checks": {
+      "check1": [
+        "\"trait5\":\"VILIA005J496\"",
+        "\"trait46\":{\"triet44\":false,\"triet45\":false}",
+        "\"trait14\":\"Resident Care\""
+      ]
+    },
+    "count": [
+      1
+    ],
+    "operator": [
+      "<="
+    ]
+  },
+  "self_email_job": {
+    "checks": {
+      "check1": [
+        "\"trait5\":\"VILIA005J443\"",
+        "\"trait15\":\"name\"",
+        "\"trait27\":\"vijay@gmail.com\""
+      ]
+    },
+    "count": [
+      1
+    ],
+    "operator": [
+      "<="
+    ]
+  },
+  "Share_LinkedIn": {
+    "checks": {
+      "check1": [
+        "\"trait5\":\"VILIA005J443\""
+      ]
+    },
+    "count": [
+      1
+    ],
+    "operator": [
+      "<="
+    ]
+  },
+  "Share_Twitter": {
+    "checks": {
+      "check1": [
+        "\"trait5\":\"VILIA005J443\""
+      ]
+    },
+    "count": [
+      1
+    ],
+    "operator": [
+      "<="
+    ]
+  },
+  "Share_Facebook": {
+    "checks": {
+      "check1": [
+        "\"trait5\":\"VILIA005J443\""
+      ]
+    },
+    "count": [
+      1
+    ],
+    "operator": [
+      "<="
+    ]
+  },
+  "Share_Email": {
+    "checks": {
+      "check1": [
+        "\"trait5\":\"VILIA005J443\""
+      ]
+    },
+    "count": [
+      1
+    ],
+    "operator": [
+      "<="
+    ]
+  },
+  "jd_page_location_click": {
+    "checks": {
+      "check1": [
+        "\"trait5\":\"VILIA005J443\""
+      ]
+    },
+    "count": [
+      1
+    ],
+    "operator": [
+      "<="
+    ]
+  },
+  "similar_jobs_subscribe": {
+    "checks": {
+      "check1": [
+        "\"trait5\":\"VILIA005J443\"",
+        "\"trait27\":\"vijay@test.vom\""
+      ]
+    },
+    "count": [
+      1
+    ],
+    "operator": [
+      "<="
+    ]
+  },
+  "job_add_to_favorite": {
+    "checks": {
+      "check1": [
+        "\"trait5\":\"VILIA005J443\""
+      ]
+    },
+    "count": [
+      1
+    ],
+    "operator": [
+      "<="
+    ]
+  },
+  "job_unfavorited": {
+    "checks": {
+      "check1": [
+        "\"trait5\":\"VILIA005J443\""
+      ]
+    },
+    "count": [
+      1
+    ],
+    "operator": [
+      "<="
+    ]
+  },
+  "job_details_view": {
+    "checks": {
+      "check1": [
+        "\"trait5\":\"VILIA005J443\""
+      ]
+    },
+    "count": [
+      1
+    ],
+    "operator": [
+      "<="
+    ]
+  },
+  "similar_job_click": {
+    "checks": {
+      "check1": [
+        "\"trait5\":\"VILIA005J707\"",
+        "\"trait46\":{\"triet44\":false,\"triet45\":false}",
+        "\"trait12\":\"VILIA005J289\""
+      ]
+    },
+    "count": [
+      1
+    ],
+    "operator": [
+      "<="
+    ]
+  },
+  "favorites_page_view": {
+    "checks": {
+      "check1": [
+      ]
+    },
+    "count": [
+      1
+    ],
+    "operator": [
+      "<="
+    ]
+  },
+  "favorite_job_click": {
+    "checks": {
+      "check1": [
+        "\"trait5\":\"VILIA005J285\""
+      ]
+    },
+    "count": [
+      1
+    ],
+    "operator": [
+      "<="
+    ]
+  },
+  "job_favorite_delete_click": {
+    "checks": {
+      "check1": [
+        "\"trait5\":\"VILIA005J285\""
+      ]
+    },
+    "count": [
+      1
+    ],
+    "operator": [
+      "<="
+    ]
+  },
+  "home_page_view": {
+    "checks": {
+      "check1": [
+      ]
+    },
+    "count": [
+      1
+    ],
+    "operator": [
+      "<="
+    ]
+  },
+  "search_result_page_view": {
+    "checks": {
+      "check1": [
+      ]
+    },
+    "count": [
+      1
+    ],
+    "operator": [
+      "<="
+    ]
+  },
+  "ats_apply_click": {
+    "checks": {
+      "check1": [
+        "\"trait5\":\"VILIA005J335\""
+      ]
+    },
+    "count": [
+      1
+    ],
+    "operator": [
+      "<="
+    ]
+  },
+  "apply_page_view": {
+    "checks": {
+      "check1": [
+      ]
+    },
+    "count": [
+      1
+    ],
+    "operator": [
+      "<="
+    ]
+  },
+  "ats_apply_page_view": {
+    "checks": {
+      "check1": [
+        "\"trait5\":\"VILIA005J335\""
+      ]
+    },
+    "count": [
+      1
+    ],
+    "operator": [
+      "<="
+    ]
+  }
+}
